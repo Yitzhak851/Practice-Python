@@ -8,15 +8,15 @@ At the Python language from basics to cool ideas for developing algorithmic thin
 
 ## 📂 Project structure
 
-Python-practice/
-│
-├── sol2exe/        # This folder include solution for my course
-├── priv-proj/      # This folder include private projects
-├── basics/         # This folder include Basic exercises <Not ready yet>
-├── logic/          # This folder includes logic and algorithm exercises <Not ready yet>
-├── utils/          # This folder includes Helper fofo <Not ready yet>
-├── need2sort/      # This folder includes files that need sorting
-└── README.md
+Python-practice/ <br>
+│ <br>
+├── sol2exe/        # This folder include solution for my course <br>
+├── priv-proj/      # This folder include private projects <br>
+├── basics/         # This folder include Basic exercises <Not ready yet> <br>
+├── logic/          # This folder includes logic and algorithm exercises <Not ready yet> <br>
+├── utils/          # This folder includes Helper fofo <Not ready yet> <br>
+├── need2sort/      # This folder includes files that need sorting <br>
+└── README.md <br>
 
 ---
 
